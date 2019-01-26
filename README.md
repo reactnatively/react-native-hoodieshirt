@@ -9,23 +9,23 @@ _PLEASE NOTE: It is critical that this app be developed with React Native becaus
 
 |User Action|View|Priority|
 |-|-|-|
-|Cart Edited|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-cartdisplaypage-edited.png' width='150'>|High|
-|Cart Editing|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-cartdisplaypage-editing.png' width='150'>|High|
-|Cart Initial|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-cartdisplaypage.png' width='150'>|High|
-|Checkout Billing Information|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-checkout-billing.png' width='150'>|High|
-|Checkout Confirmation|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-checkout-confirmation.png' width='150'>|High|
-|Checkout Review & Place Order|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-checkout-placeorder.png' width='150'>|High|
-|Checkout Shipping Information|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-checkout-shipping.png' width='150'>|High|
 |Artifacts Icon|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-icon.png' width='150'>|High|
+|Artifacts Splash|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-splash.png' width='150'>|High|
 |Onboarding Login|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-login.png' width='150'>|High|
-|Standard Minicart Triggered|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-minicarttriggered.png' width='150'>|High|
-|My Account Initial|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-myaccount.png' width='150'>|High|
-|Product Product Detail Page|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-productdetailpage-initial.png' width='150'>|High|
 |Onboarding Register|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-register.png' width='150'>|High|
 |Search Category|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-search-category.png' width='150'>|High|
 |Search Term|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-search-term.png' width='150'>|High|
+|Product Product Detail Page|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-productdetailpage-initial.png' width='150'>|High|
+|Standard Minicart Triggered|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-minicarttriggered.png' width='150'>|High|
 |Product Select Options|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-selectoptions.png' width='150'>|High|
-|Artifacts Splash|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-splash.png' width='150'>|High|
+|Cart Edited|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-cartdisplaypage-edited.png' width='150'>|High|
+|Cart Editing|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-cartdisplaypage-editing.png' width='150'>|High|
+|Cart Initial|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-cartdisplaypage.png' width='150'>|High|
+|Checkout Shipping Information|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-checkout-shipping.png' width='150'>|High|
+|Checkout Billing Information|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-checkout-billing.png' width='150'>|High|
+|Checkout Review & Place Order|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-checkout-placeorder.png' width='150'>|High|
+|Checkout Confirmation|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-checkout-confirmation.png' width='150'>|High|
+|My Account Initial|<image src='https://github.com/reactnatively/react-native-hoodieshirt/blob/master/hoodieshirt-myaccount.png' width='150'>|High|
 
 ## React Natively API
 * URL: http://api.reactnatively.venny.co/v1/
